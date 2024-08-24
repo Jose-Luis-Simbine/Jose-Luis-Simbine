@@ -1,5 +1,8 @@
-<p align="Left">
-  <img src="https://github.com/Jose-Luis-Simbine/Profile/blob/main/assets/headre_github.gif">
+<div align="Center">
+  <img src="https://github.com/Jose-Luis-Simbine/Profile/blob/main/assets/header_github.gif">
+</div>
+
+
 
 
 - 🔭 I’m currently studying economics at **Eduardo Mondlane University (UEM)**
