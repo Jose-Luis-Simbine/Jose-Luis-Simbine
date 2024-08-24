@@ -9,10 +9,11 @@
 - 🌱 I’m currently learning **Time series analysis with Python**
 - 👯 I’m looking to collaborate on **Projects in econometrics, data science, machine learning and data analysis**
 - 💬 Ask me about **Economics, econometrics, data science and data analysis. I will be happy to help!**
+- 📫 How to reach me **joseluissimbine0@gmail.com**
 - 📄 Know about my experiences [www.linkedin.com/in/josé-luís-simbine](www.linkedin.com/in/josé-luís-simbine)
 - ⚡ Fun fact **I`m a chess lover <3**
 
-- 📫 How to reach me **joseluissimbine0@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jose luis simbine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose luis simbine" height="30" width="40" /></a>
