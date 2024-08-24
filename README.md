@@ -3,20 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-luis-simbine&label=Profile%20views&color=0e75b6&style=flat" alt="jose-luis-simbine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jose-luis-simbine" alt="jose-luis-simbine" /></a> </p>
+
 
 - 🔭 I’m currently studying economics at **Eduardo Mondlane University (UEM)**
-
 - 🌱 I’m currently learning **Time series analysis with Python**
-
 - 👯 I’m looking to collaborate on **Projects in econometrics, data science, machine learning and data analysis**
-
 - 💬 Ask me about **Economics, econometrics, data science and data analysis. I will be happy to help!**
-
 - 📫 How to reach me **joseluissimbine0@gmail.com**
-
 - 📄 Know about my experiences [www.linkedin.com/in/josé-luís-simbine](www.linkedin.com/in/josé-luís-simbine)
-
 - ⚡ Fun fact **I`m a chess lover <3**
 
 <h3 align="left">Connect with me:</h3>
@@ -43,4 +37,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jose-luis-simbine" alt="jose-luis-simbine" /></a> </p>
 -->
