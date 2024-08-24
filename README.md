@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm José Luís</h1>
-<h3 align="center">A passionate data analyst from Mozambique</h3>
+<p align="center">
+  <img src="https://github.com/kterra/kterra/raw/main/assets/header_github.gif" alt="Oi, eu sou José Luís">
+</p>
 
 
 - 🔭 I’m currently studying economics at **Eduardo Mondlane University (UEM)**
