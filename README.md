@@ -1,4 +1,4 @@
-<p align="center">
+<p align="Left">
   <img src="https://github.com/Jose-Luis-Simbine/Profile/blob/main/assets/headre_github.gif">
 
 
