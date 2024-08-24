@@ -2,7 +2,6 @@
   <img src="https://github.com/Jose-Luis-Simbine/Profile/tree/main/assets/headre_github.gif" alt="Oi, eu sou José Luís">
 </p>
 
-
 - 🔭 I’m currently studying economics at **Eduardo Mondlane University (UEM)**
 - 🌱 I’m currently learning **Time series analysis with Python**
 - 👯 I’m looking to collaborate on **Projects in econometrics, data science, machine learning and data analysis**
